@@ -1,0 +1,27 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    background-color: beige;
+    text-align: center;
+    padding: 20px;
+}
+
+div {
+    margin: 20px;
+}
+
+input {
+    padding: 5px;
+    width: 100px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+p {
+    font-weight: bold;
+}
